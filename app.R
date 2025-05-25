@@ -180,7 +180,7 @@ tabPanel("Data Collected",
              tags$head(includeCSS("styles.css")),
              leafletOutput("mymap", width = "100%", height = "100%"),
              absolutePanel(id = "logo", class = "card", bottom = 20, left = 20, width = 200, fixed = TRUE, draggable = FALSE, height = "auto",
-                           tags$a(href = 'https://jrp.pscholars.org/', tags$img(src = 'https://sarahajones.github.io/jGLOBAL_dashboard/img/ICON.png', height = 'auto', width = '60%'))
+                           tags$a(href = 'https://jrp.pscholars.org/', tags$img(src = 'https://github.com/sarahajones/jGLOBAL_dashboard/blob/main/ICON.png', height = 'auto', width = '60%'))
              )
          )
 ),
