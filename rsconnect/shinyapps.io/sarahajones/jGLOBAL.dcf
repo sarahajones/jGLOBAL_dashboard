@@ -4,9 +4,9 @@ username: sarahajones
 account: sarahajones
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 12409964
-bundleId: 8968362
-url: https://sarahajones.github.io/jGLOBAL_dashboard/
+appId: 11643590
+bundleId: 14822865
+url: https://mfak4f-sarah-ashcroft0jones.shinyapps.io/jglobal_dashboard/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

@@ -152,7 +152,7 @@ table.dataTable.no-footer{
     color: #0D7BC0;
   }
 
-leaflet-popup-content-wrapper a {
+ .leaflet-popup-content-wrapper a {
     color:rgba(255,255,255,0.1);
   }
 
